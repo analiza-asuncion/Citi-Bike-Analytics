@@ -12,7 +12,7 @@ Questions to be considered:
 -How does the average trip duration change by age?
 -What is the average distance in miles that a bike is ridden?
   
-  
+    
     
     
   
